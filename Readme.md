@@ -3,11 +3,11 @@
 ## contains:
 ### full Crud 
 ### CORS
-### working with a front: https://github.com/AmirHauz/csv_diamond_example_typescript_front.git
+### working with a front: https://github.com/AmirHauz/csv_diamond_example_typescript_front.
 
 
 
 # Run:
     create a virtual enviroment
     pip install -r .\requirements.txt
-    flask run
+    python3 app.py 
